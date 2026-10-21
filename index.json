@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "gsoc2014-integration-tests",
+  "versions": [
+    {
+      "commit": "81ee2765eaeeaaad6044a8347d3ccf414d895985",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:52:39.052535+00:00"
+    }
+  ]
+}
