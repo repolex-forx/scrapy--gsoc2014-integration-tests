@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "scrapy",
+  "repo": "gsoc2014-integration-tests",
+  "versions": [
+    {
+      "commit": "81ee2765eaeeaaad6044a8347d3ccf414d895985",
+      "parsed_at": "2026-10-21T02:50:20.187322+00:00",
+      "filetree": "filetree/81ee2765eaeeaaad6044a8347d3ccf414d895985.nq.gz",
+      "blobs": [
+        "blob/3a24f7bc3c4eb4be0eb943da606591521d1385ee.nq.gz",
+        "blob/94464dcb31c1a237ed52478c667edf5fb4c1e290.nq.gz",
+        "blob/0ddf1cc8cd20cfc6bcc5aae070b75f9e9ade5935.nq.gz",
+        "blob/7098aea7fdc4033c661c37d86cdb80fa695fae40.nq.gz",
+        "blob/7f97e384350591a2fc9cfb7de72614f68775dc6e.nq.gz",
+        "blob/7744a37b242283d79fdb1de2a1bc03ff4dd7d90e.nq.gz",
+        "blob/770ad0f48116c0949ab1d8210dd1bfc0d158db5d.nq.gz",
+        "blob/6a9301d40941203b38b3e468728e027958ad8160.nq.gz",
+        "blob/fd09f0b17b7d8b600ca4d4c14fb5d99592943177.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
