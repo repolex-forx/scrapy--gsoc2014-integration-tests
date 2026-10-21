@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapy/gsoc2014-integration-tests/commit/81ee2765eaeeaaad6044a8347d3ccf414d895985",
       "git:hexsha": "81ee2765eaeeaaad6044a8347d3ccf414d895985",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T02:52:39.052190+00:00"
     }
   ]
 }
